@@ -9,4 +9,4 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ####Projects demo from NOTEBOOK
+# MAGIC ####Projects demo from GITHUB
