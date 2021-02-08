@@ -9,7 +9,8 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ####Projects demo from Notebook - create conflict
+=======
+# MAGIC ####Projects demo from IDE
 
 # COMMAND ----------
 
