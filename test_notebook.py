@@ -9,4 +9,4 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ####Projects demo from Notebook
+# MAGIC ####Projects demo from Notebook - conflict
