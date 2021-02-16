@@ -9,7 +9,9 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ####Projects demo from Notebook - from colleague #1
+
+# MAGIC ####Projects demo from IDE (from collleague #2)
+
 
 # COMMAND ----------
 
